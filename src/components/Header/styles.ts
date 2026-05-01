@@ -27,8 +27,8 @@ export const LogoArea = styled.div`
 `
 
 export const LogoImg = styled.img`
-  height: 100px;
-  width: 200px;
+  height: 80px;
+  width: auto;
   object-fit: contain;
 `
 
